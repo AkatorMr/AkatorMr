@@ -1,8 +1,8 @@
 - 👋 Hola, soy @AkatorMr
-- 👀 Estoy interesado en la programación de sitemas embebidos
+- 👀 Estoy interesado en la programación de sistemas embebidos
 - 🌱 Actualmente estoy estudiando los microcontroladores STM32
 - 💞️ Me gustaría colaborar en desarrollos con la librería Vue, con el diseño de sistemas embebidos y la programación de los mismos..
-- 📫 Si desean contactar conmigo, mencionenme en alguna actividad.
+- 📫 Si desean contactar conmigo, menciónenme en alguna actividad.
 
 <!---
 AkatorMr/AkatorMr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
